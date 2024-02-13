@@ -29,24 +29,24 @@
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color: blueviolet;
+    color: rebeccapurple;
 }
 .about .about-content .right p{
     text-align: justify;
 }
 .about .about-content .right a{
     display: inline-block;
-    background: blueviolet;
+    background: rebeccapurple;
     color: #fff;
     font-size: 20px;
     font-weight: 500;
     padding: 10px 30px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid blueviolet;
+    border: 2px solid rebeccapurple;
     transition: all 0.3s ease;
 }
 .about .about-content .right a:hover{
-    color: blueviolet;
+    color: rebeccapurple;
     background: none;
 }

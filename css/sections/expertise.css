@@ -27,7 +27,7 @@
     transition: all 0.3s ease;
 }
 .expertise .expertise-content .card:hover{
-    background: blueviolet;
+    background: rebeccapurple;
 }
 .expertise .expertise-content .card .box{
     transition: all 0.3s ease;
@@ -37,7 +37,7 @@
 }
 .expertise .expertise-content .card i{
     font-size: 50px;
-    color: blueviolet;
+    color: rebeccapurple;
     transition: color 0.3s ease;
 }
 .expertise .expertise-content .card:hover i{

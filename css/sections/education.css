@@ -33,7 +33,7 @@
     width: 150px;
     object-fit: cover;
     border-radius: 50%;
-    border: 5px solid blueviolet;
+    border: 5px solid rebeccapurple;
     transition: all 0.3s ease;
 }
 .education .carousel .card:hover img{

@@ -27,7 +27,7 @@ html{
     margin: 0 5px;
     outline: none!important;
     border-radius: 50%;
-    border: 2px solid blueviolet!important;
+    border: 2px solid rebeccapurple!important;
     transition: all 0.3s ease;
 }
 .owl-dot.active{
@@ -36,7 +36,7 @@ html{
 }
 .owl-dot.active,
 .owl-dot:hover{
-    background: blueviolet!important;
+    background: rebeccapurple!important;
 }
 
 /* custom scroll bar */

@@ -54,7 +54,7 @@
 }
 .experience .experience-content .row i{
     font-size: 25px;
-    color: blueviolet;
+    color: rebeccapurple;
 }
 .experience .experience-content .row .number::before {
     content: counter(journal-counter) ". ";
